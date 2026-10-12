@@ -1,0 +1,14 @@
+{
+  "version": "1.21.4",
+  "manifest": "https://piston-meta.mojang.com/mc/game/version_manifest_v2.json",
+  "metadata": "https://piston-meta.mojang.com/v1/packages/010c66f4559d4647c282d581a451cda6d45777db/1.21.4.json",
+  "client": {
+    "sha1": "a7e5a6024bfd3cd614625aa05629adf760020304",
+    "size": 28335587,
+    "url": "https://piston-data.mojang.com/v1/objects/a7e5a6024bfd3cd614625aa05629adf760020304/client.jar"
+  },
+  "files": {
+    "ascii.png": "assets/minecraft/textures/font/ascii.png",
+    "default.json": "assets/minecraft/font/include/default.json"
+  }
+}

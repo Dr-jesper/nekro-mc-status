@@ -1,0 +1,4 @@
+-r requirements.txt
+pydantic>=2.12,<3
+pytest>=8,<10
+pytest-asyncio>=0.24,<2

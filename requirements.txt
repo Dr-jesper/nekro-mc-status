@@ -1,0 +1,4 @@
+mcstatus>=14.2,<15
+Pillow>=12.2,<13
+aiohttp>=3.13,<4
+tzdata>=2025.3

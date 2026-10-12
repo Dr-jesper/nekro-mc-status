@@ -1,0 +1,34 @@
+{
+  "retrieved_on": "2026-10-11",
+  "website": "https://shoumc.com",
+  "stylesheet": "https://shoumc.com/assets/css/styles.aa9e6caf.css",
+  "palette": {
+    "--ifm-color-primary": "#904855",
+    "--ifm-color-primary-dark": "#74313e",
+    "--cc-bg": "#fdf9f3",
+    "--cc-bg-deep": "#5d453e",
+    "--cc-panel": "#f9efe4",
+    "--cc-panel-2": "#f7f3ed",
+    "--cc-line": "#d8c1c3",
+    "--cc-line-strong": "#857274",
+    "--cc-text": "#1c1c18",
+    "--cc-muted": "#534344",
+    "--cc-faint": "#73594e",
+    "--cc-acid": "#904855",
+    "--cc-yellow": "#6f5b46",
+    "--cc-rose-glaze": "#fdebed",
+    "--cc-primary-container": "#d17d8a",
+    "--cc-secondary-container": "#f6dbc0"
+  },
+  "conduit": {
+    "original_alias": "Conduit.png",
+    "archive_name": "Conduit_JE1_BE1.png",
+    "original_page": "https://minecraft.wiki/w/File:Conduit.png",
+    "archive_page": "https://wiki.ronlab.site/content/minecraftwiki_en_all_maxi_2025-11/Conduit",
+    "download_url": "https://wiki.ronlab.site/content/minecraftwiki_en_all_maxi_2025-11/_assets_/5af80496508534f4cdd561aac15bbc50/Conduit_JE1_BE1.png",
+    "archive_response_format": "WEBP",
+    "archive_response_sha256": "a9fc72c64005bda450c7b025bb147dfb27969f15c7e53e8b0c23ac30de6526d2",
+    "normalization": "Archive returns WebP despite .png suffix; decoded and saved losslessly as PNG, no resize or recolor.",
+    "sha256": "eb0c9e4a2fbc4cac1580bfc35feec9726bf2eb551f5da83ca4676af5a72f1f2f"
+  }
+}
